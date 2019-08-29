@@ -8,6 +8,7 @@
 	"featured":"No",
 	"price":"2500",
 	"repo_name":"Reduce-Time-To-Close-Case-Accelerators",
+	"key" : "4",
 	
 	"dependencies":[
 		{
